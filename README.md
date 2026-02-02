@@ -1,2 +1,2 @@
-# Pyhton-_Sql-_Project
-"This is my first python + sql project."
+# Python + SQL Project
+This is my first Python and Sql project.
